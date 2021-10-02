@@ -1,8 +1,8 @@
 # DifFuzzAR
 [![Build Status](https://travis-ci.org/RuiDTLima/DifFuzzAR.svg?branch=master&style=plastic)](https://travis-ci.org/RuiDTLima/DifFuzzAR)
 ![Java CI](https://github.com/RuiDTLima/DifFuzzAR/workflows/Java%20CI/badge.svg?branch=master)
-[![GitHub issues](https://img.shields.io/github/issues/RuiDTLima/DifFuzzAR?style=plastic)](https://github.com/RuiDTLima/DifFuzzAR/issues)
-[![GitHub license](https://img.shields.io/github/license/RuiDTLima/DifFuzzAR?style=plastic)](https://github.com/RuiDTLima/DifFuzzAR/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/sr-lab/DifFuzzAR?style=plastic)](https://github.com/sr-lab/DifFuzzAR/issues)
+[![GitHub license](https://img.shields.io/github/license/sr-lab/DifFuzzAR?style=plastic)](https://github.com/sr-lab/DifFuzzAR/blob/master/LICENSE)
 
 Automatic Repair of Java Code with Timing Side-Channel Vulnerabilities
 
@@ -151,5 +151,7 @@ The tool contains a set of tests that use the examples taken from DifFuzz to mod
 
 
 
- # Reports
- Two reports for this project are available as pdf files in this repository at **94073-rui-lima_dissertacao.pdf** is a complete report explaining the development of the project and at **94073-rui-lima_resumo.pdf** is an article explaining the project.
+# Paper and Reports
+A paper published at the [International Workshop on Refactoring (IWOR 2021)](https://iwor.github.io/iwor2021/) is available in the folder `doc`.
+The folder also contains two reports produced by Rui Lima as part of his MSc project.
+
